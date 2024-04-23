@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6945de79-8ca2-40d3-9ef4-7dc3b352b3ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    <list default="true" id="6945de79-8ca2-40d3-9ef4-7dc3b352b3ba" name="Changes" comment="1st test">
+      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/dep/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lk/ijse/dep/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +47,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713854851765</updated>
-      <workItem from="1713854852845" duration="2102000" />
+      <workItem from="1713854852845" duration="2964000" />
     </task>
+    <task id="LOCAL-00001" summary="1st test">
+      <option name="closed" value="true" />
+      <created>1713857090162</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713857090162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st test" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st test" />
   </component>
 </project>
